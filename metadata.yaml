@@ -1,0 +1,35 @@
+_repo: Indian-Nature-Myths_70318
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dulin, Dorothy
+    alias: Dulin, Adah Dorothy Donaldson
+    birthdate: 1881
+    deathdate: 1953
+    gutenberg_agent_id: '53386'
+    url: http://www.gutenberg.org/2009/agents/53386
+creator:
+  author:
+    agent_name: Cowles, Julia Darrow
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '53739'
+    url: http://www.gutenberg.org/2009/agents/53739
+description: ''
+gutenberg_issued: '2023-03-18'
+identifiers:
+  gutenberg: '70318'
+language: en
+pgterms:marc905: 20181121134203cowles
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Sam W. and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bA. Flanagan Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Indian Nature Myths
+url: http://www.gutenberg.org/ebooks/70318
