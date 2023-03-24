@@ -8,6 +8,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '53386'
     url: http://www.gutenberg.org/2009/agents/53386
+covers:
+- cover_type: archival
+  image_path: 70318-h/images/cover.jpg
 creator:
   author:
     agent_name: Cowles, Julia Darrow
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '53739'
     url: http://www.gutenberg.org/2009/agents/53739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70318#Indian-Nature-Myths
 gutenberg_issued: '2023-03-18'
 identifiers:
   gutenberg: '70318'
